@@ -1,4 +1,4 @@
-### - To-Do Web App
+### To-Do Web App
 
 To-Do Web App
 Este é um projeto simples de uma aplicação web de lista de tarefas (To-Do) utilizando HTML, CSS e JavaScript. Ele oferece uma interface intuitiva para adicionar, remover e marcar tarefas como concluídas.
