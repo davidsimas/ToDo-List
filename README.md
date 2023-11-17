@@ -15,8 +15,10 @@ Este é um projeto simples de uma aplicação web de lista de tarefas (To-Do) ut
 
 ### Como usar
 
-1 Faça o clone do repositório:
+1 Faça o clone do repositório.
+
   - git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
 2 Abra o arquivo index.html em seu navegador web.
 3 Comece a adicionar suas tarefas!
 
